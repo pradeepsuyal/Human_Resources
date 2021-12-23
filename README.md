@@ -45,7 +45,7 @@ The HR team collected extensive data on their employees and with the help of thi
 
 ## Dataset Used:<a name="data"></a>
 
-The team provided with an extensive data, here's a sample of the dataset: 
+here's a sample of the dataset: 
 
 `JobInvolvement`
 
@@ -58,8 +58,6 @@ The team provided with an extensive data, here's a sample of the dataset:
 `RelationshipSatisfaction`
 
 `WorkLifeBalance`
-
-[source of dataset](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 
 ## Run locally:<a name="run"></a>
 
